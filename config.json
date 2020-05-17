@@ -1,0 +1,42 @@
+{
+
+ "Account": {
+     "Username": "firmando20",
+     "Password": "",
+     "Authenticator": ""
+     },
+ "Target Profit": "1200000.00000000",
+ "Target Win": "3050000.000000",
+ "Lose Target": "0.0",
+ "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "  10 - 15 %",
+     "Base Bet": "0.0025",
+     "Max Bet": "OFF",
+     "Chance": "87.75",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "42",
+          "Max": "44.5"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Random": "ON",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "44",
+              "If Win": "5"
+            }
+        },
+     "If Win": "1.85",
+     "If Lose": "1.85",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "1"
+     
+}],
+
+  "User-Agent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30", "Version": "5.3.0-46-generic"
+
+}
